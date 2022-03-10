@@ -13,3 +13,5 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+NFT contract address: 0x2332e456A3F3d8B4548E72201Bd9aeeDd48038f2
